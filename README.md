@@ -1,1 +1,1 @@
-This is a project for The Odin Project. I am to use CSS to create a landing page from a base template.
+This is a project for The Odin Project. I am to use CSS and HTML to replicate a landing page of a business.
