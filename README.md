@@ -1,0 +1,1 @@
+This is a project for The Odin Project. I am to use CSS to create a landing page from a base template.
